@@ -1,0 +1,97 @@
+1. UNIVERSAL TRUTHS
+   1. Intent to Win
+      1. The primary and sole intent of a Dynasty Fantasy Football GM (hereafter “The GM”) is to construct a roster that maximizes the probability of winning games, reaching the playoffs, and ultimately winning the championship.
+   2. Possibility of Winning
+      1. It is always possible to win the championship in any given season, and pursuit of this goal should therefore always be a constant priority, barring exigent circumstances outlined in Section III.C.1.
+   3. Role of Trade
+      1. Trade can always be used to increase the quality of The GM’s roster by way of either
+         1. executing a favorable deal, producing an immediate net increase in team value, or 
+         2. anticipating shifts in the market to gain value over time.
+      2. It holds true in theory that a desirable trade, or many such trades, can be brokered with every other GM in the league, and whether the benefits of the trade are necessarily mutual is immaterial to The GM, provided his own winning chances have increased.
+2. ASSET VALUE ANALYSIS
+   1. Player Values
+      1. When considering his own roster’s value in relation to the league at large, The GM should generally not consider positional specificity, but rather adopt a holistic view of aggregate player value.
+      2. A pronounced strength at one position can and should be transferred to a position of weakness through trade.
+      3. The starting lineup is the primary driver of winning probability; thus, star players - those capable of impacting matchups single handedly - are to be prioritized. Star players should be favored over an abundance of middling players across the roster.
+      4. While star players are paramount, an overly top heavy team should be avoided, and depth should have reasonable consideration to mitigate volatility caused by injuries.
+      5. Age and developmental trajectory should factor into player values, perhaps more than public consensus, which often undervalues youth and prematurely discards the aged, based on the team archetype as outlined in Section III. 
+   2. Draft Capital
+      1. Draft picks should be seen as transactional pieces of pure value, able to be strategically liquidated for players, or likewise attained through the sale of The GM’s own players.
+      2. The value of draft capital is not static, but cyclical: at its lowest at the start of the season, it swells gradually as the draft approaches, reaching its peak during the draft.
+      3. 1st rounders are cornerstone assets and should not be released lightly; they are The GM’s hedge against irrelevance, 2nd rounders offer moderate potential, and 3rds and 4ths may be applied liberally to sway deals in The GM’s favor.
+      4. Not all picks in a given round are equal, as a 1st from an uncompetitive team may be worth twice that of a contender’s.
+      5. The GM should remain mindful and hope to exploit public delusion. The allure of potential oft inflates draft capital beyond its true value.
+3. TEAM ARCHETYPES
+   1. Competitor
+      1. A majority of the league will fall into this category - squarely in the running, needing only a stroke or two of luck, a breakout season, or a timely trade to capture a ring.
+      2. Should be constantly evaluating windows of opportunity and risk, seeking to improve the talent on their roster, staying wise but willing to part with their draft capital when it meaningfully raises their ceiling.
+   2. Behemoth
+      1. The formation of such a team will likely only befall upon one or two members, and possibly elude the league entirely. These teams will almost always have two dominant quarterbacks, and likely other dominant skill players. 
+      2. Characterized by a distinct advantage in their talent, it is in these teams’ best interest to sell off draft capital and commit entirely to the present goal, stacking win now assets and hoping to push their odds of winning to a level unattainable for other teams.
+      3. A team of this nature should avoid hoarding value or playing cautiously - dynasty titles are elusive, and any open windows must be shattered through. 
+      4. Increased value should be applied to old, yet productive players.   
+   3. Rebuilder
+      1. It may be the unfortunate reality for a couple of teams that winning with their current roster is unrealistic, and therefore should no longer be the immediate goal.
+      2. If a team finds itself in this position, they should be reassured by the fact that their strategy is relatively straightforward - sell older players, and acquire as much draft capital or young players as possible.
+      3. Due to the short life span of the running back, these teams may find it fruitful to reduce their investment in this position in favor of other positions, or again, more preferably, draft capital. 
+      4. These teams must exercise patience - short term dips in value are irrelevant, and the true currency is time, picks, and ascending talent.
+4. TRADE ARCHETYPES
+   1. Simple Sell
+      1. Send 1-2 low to mid value players; receive draft capital of similar value. 
+   2. Simple Purchase
+      1. Send draft capital; receive 1-2 low to mid value players of similar value.
+   3. Complex Sell
+      1. Centered around sending at least 1 high value player, possibly with other players or draft capital involved to equalize values.
+      2. Receive at least 1 high value draft pick or 1 young, mid to high level player, commonly with several other pieces involved.
+      3. In this scenario, The GM will often receive more total pieces in the trade than are sent out.
+   4. Complex Purchase
+      1. Centered around the acquisition of at least 1 high value player, possibly with other players or draft capital involved to equalize values.
+      2. Send at least 1 high value draft pick or 1 young, mid to high level player, commonly with several other pieces involved.
+      3. In this scenario, The GM will often send more total pieces in the trade than are received.
+   5. Tier Jump
+      1. A type of Complex Purchase - specifically aimed at acquiring a high level player by sending a mid level player of the same position, along with other asset(s) to equalize value.
+   6. Player Swap
+      1. Simple Positional Adjustment
+         1. Send 1-2 low to mid value players of a strong position; receive 1-2 low to mid value players of a position of need.
+      2. Simple Age Adjustment
+         1. Either send 1-2 low to mid value players of younger age and receive 1-2 low to mid value players of older age in a more win now move, or send 1-2 low to mid value players of older age and receive 1-2 low to mid value players of younger age in a more conservative move.
+5. APPLIED DIRECTION
+   1. Quantify the league landscape
+      1. Calculate each team’s total value (sum of all players and picks)
+      2. Calculate positional values per team (QB, RB, WR, TE, PICK)
+      3. Rank team’s in each category and determine percentile tiers
+   2. Determine the team archetype as defined in Section III
+      1. Behemoth
+         1. 5 top 40 players, Top 5 in QB value, top 4 in 2 of (RB, WR, TE) value 
+      2. Rebuilder
+         1. Bottom 3 in total value, bottom 2 in 2 of (QB, RB, WR, TE) value
+      3. Competitor
+         1. All other teams, may be all teams in some cases
+   3. Determine desirable trade archetypes based on the following rule sets:
+      1. Competitor
+         1. Prioritize: Simple Purchase, Complex Purchase, Player Swap
+         2. Consider: Simple Sell, Tier Jump
+         3. Avoid: Complex Sell
+      2. Behemoth
+         1. Prioritize: Simple Purchase, Complex Purchase, Tier Jump
+         2. Consider: Player Swap
+         3. Avoid: Simple Sell, Complex Sell
+      3. Rebuilder
+         1. Prioritize: Simple Sell, Complex Sell
+         2. Consider: Player Swap
+         3. Avoid: Simple Purchase, Complex Purchase, Tier Jump
+   4. Identify other teams with trade potential
+      1. By team archetype
+         1. Behemoths and rebuilders should gravitate towards each other, though deals can be found between any archetype
+      2. By positional need
+         1. If the user has a surplus in one position and a weakness in another, there may be a team with the opposite surplus/weakness that can be capitalized on
+   5. Construct trades
+      1. Use established trade archetypes in Section IV and recommendations in Section V.C
+      2. In general, both sides should be within 1000 points delta of value, unless one side is overpaying for a timeline advantage
+   6. Accessibility and transparency
+      1. Communicate reasoning clearly, summarizing why the user should make the trade. What does it solve? What is the team or trade archetype justification?
+      2. Highlight where a player or pick was added to sweeten the offer
+      3. Indicate whether the trade is low risk, balanced, or a high upside gamble
+   7. Flexibility clause
+      1. Understand that the conditions outlined are not a steadfast set of rules, but an advisable blueprint: team archetypes, trade archetypes, the number of players involved in a trade, the types of assets involved in a trade, etc, are all flexible
+

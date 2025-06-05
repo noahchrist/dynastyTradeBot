@@ -1,0 +1,9 @@
+/* index.css */
+html, body, #root {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background-color: #74c365; /* mantis green */
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
